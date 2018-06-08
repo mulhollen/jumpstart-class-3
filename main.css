@@ -1,0 +1,11 @@
+body {
+    display: block;
+    border: 4px dashed hotpink;
+    padding: 1rem;
+}
+
+.inline {
+    display: inline-block;
+    border: 3px solid green;
+    margin: 50px;
+}
